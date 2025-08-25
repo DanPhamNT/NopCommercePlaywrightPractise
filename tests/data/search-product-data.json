@@ -1,0 +1,9 @@
+[
+  {
+    "searchKeyword": "Lenovo",
+    "expectedProducts": [
+      "Lenovo IdeaCentre",
+      "Lenovo Thinkpad Carbon Laptop"
+    ]
+  }
+]
